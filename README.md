@@ -23,8 +23,8 @@ This project focuses on classifying dog breeds using deep learning techniques, a
 ### 📝 Steps to Set Up the Project
 1. **📥 Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/Dog-Breed-Classification.git
-   cd Dog-Breed-Classification
+   git clone https://github.com/Jenesha20/Dogs-Breed/tree/main
+   cd Dogs-Breed
    ```
 
 2. **📦 Install Dependencies**:
@@ -44,12 +44,12 @@ This project focuses on classifying dog breeds using deep learning techniques, a
 ## 📦 Docker Deployment
 1. **🔨 Build the Docker Image**:
    ```bash
-   docker build -t dog-breed-classifier .
+   docker build -t dogs-breed-.
    ```
 
 2. **▶️ Run the Docker Container**:
    ```bash
-   docker run -p 5000:5000 dog-breed-classifier
+   docker run -p 5000:5000 dogs-breed
    ```
 
 3. **🌐 Access the Application**:
@@ -58,5 +58,4 @@ This project focuses on classifying dog breeds using deep learning techniques, a
 ## 📝 Conclusion
 🚀 This project demonstrates how deep learning can effectively classify dog breeds with high accuracy. By leveraging **Flask** for the web application and **Docker** for deployment, it ensures a seamless experience for users and developers. The interactive interface, combined with the power of the **Xception model**, provides reliable and insightful breed predictions.
 
-🎉 Feel free to contribute to this project by submitting issues or pull requests!
 
