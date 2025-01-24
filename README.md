@@ -44,7 +44,7 @@ This project focuses on classifying dog breeds using deep learning techniques, a
 ## 📦 Docker Deployment
 1. **🔨 Build the Docker Image**:
    ```bash
-   docker build -t dogs-breed-.
+   docker build -t dogs-breed.
    ```
 
 2. **▶️ Run the Docker Container**:
